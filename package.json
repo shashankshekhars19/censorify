@@ -1,0 +1,16 @@
+{
+	"author":"shashank",
+	"name":"censorify",
+	"version" : "0.0.1",
+	"description":"Censored word out of text",
+	"main" : "censortext",
+	"repository" : {
+		"type":"git",
+		"url" : "https://github.com/shashankshekhars19/censorify"
+	},
+	"dependencies": {},
+	"keywords": ["censor","words"],
+	"engine":{
+		"node" : "*"
+	}
+}
